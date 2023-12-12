@@ -2,12 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>fr.imt.cours.IL-Maven-2023</groupId>
   <artifactId>coffee-storage</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <parent>
-    <groupId>groupId</groupId>
+    <groupId>fr.imt.coffee</groupId>
     <artifactId>cours-maven-2023-Clement</artifactId>
     <version>1.0-SNAPSHOT</version>
   </parent>
@@ -15,9 +14,4 @@
   <dependencies>
 
   </dependencies>
-
-  <name>Archetype - coffee-storage</name>
-  <url>http://maven.apache.org</url>
-
-
 </project>
