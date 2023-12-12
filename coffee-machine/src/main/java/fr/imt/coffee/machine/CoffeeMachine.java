@@ -116,7 +116,7 @@ public class CoffeeMachine {
 
         CoffeeContainer coffeeContainer = null;
         if(container instanceof Cup)
-            coffeeContainer = new CoffeeCup(container, coffeeType);
+            coffeeContainer = new CoffeeCup((Cup) container, coffeeType);
         if(container instanceof Mug)
             coffeeContainer = new CoffeeMug((Mug) container, coffeeType);
 

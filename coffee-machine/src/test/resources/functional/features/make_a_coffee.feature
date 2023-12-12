@@ -22,3 +22,5 @@ Feature: Make a coffee with a complete coffee machine
     Then the coffee machine return a coffee mug not empty
     And a coffee volume equals to 0.15
     And a coffee "cup" containing a coffee type "ROBUSTA"
+
+
