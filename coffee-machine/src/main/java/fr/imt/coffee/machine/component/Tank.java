@@ -14,7 +14,7 @@ public class Tank {
      */
     public Tank(double initialVolume, double minVolume, double maxVolume){
         this.maxVolume = maxVolume;
-        this.minVolume = maxVolume;
+        this.minVolume = minVolume;
         this.actualVolume = initialVolume;
     }
 
