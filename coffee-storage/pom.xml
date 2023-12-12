@@ -13,12 +13,7 @@
   </parent>
 
   <dependencies>
-    <dependency>
-      <groupId>fr.imt.cours.IL-Maven-2023</groupId>
-      <artifactId>coffee-machine</artifactId>
-      <version>1.0-SNAPSHOT</version>
-      <scope>compile</scope>
-    </dependency>
+
   </dependencies>
 
   <name>Archetype - coffee-storage</name>
